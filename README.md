@@ -8,7 +8,7 @@ There are three levels easy, medium, hard. With each level speed and the number 
 ![Untitled video - Made with Clipchamp](https://github.com/Aabha-J/Asteroid-Shooting-Game/assets/121515351/026c292e-a057-41f9-bed2-4e408490455a)
 
 
-## Playing the Game
+## Playing the Game :video_game:
 
 The game can be simulated by importing file or copying the code to
 https://cpulator.01xz.net/?sys=nios-de1soc
